@@ -6,10 +6,12 @@
 
 ### hello there :smile:,
 
-- 🔭 I’m currently working on my [portfolio](http://moodymudiaga.com)
+- 🔭 I’m currently working on my [portfolio](http://moodymudiaga.com) and a friend's project
 - 🌱 I’m currently learning advanced **javascript**
 - 👯 I’m currently contributing to HermitTools/Thumbnail-Maker repo, pretty cool :grin:
-- 🤔 I’m looking for an entry level opportunity to build real life projects and work with a team
+- 🤔 I’m looking for an entry level opportunity to work with others and gain grow
 - 📫 How to reach me: mudiaga.dev@gmail.com
-- ⚡ Fun fact: I made a career switch from a professional legal practice to tech
+- ⚡ Fun fact: I made a career switch from professional legal practice to tech
+- 🎯 My goal is to know javascript like the back of my hand
+- 💘 I love playing on the guitar, reading manga, and writing sonnets
 
