@@ -7,8 +7,8 @@
 ### hello there :smile:,
 
 - 🌱 I’m currently learning **Bash and Shell Scripting**
-- 👯 I’m currently contributing to HermitTools pretty cool :grin:
-- 🤔 I’m actively searching for developer role
+- 👯 I’m currently contributing to Hermit Tools pretty cool :grin:
+- 🤔 I’m actively searching for a new developer role
 - 📫 How to reach me: moody.mudiaga@gmail.com
 - ⚡ Fun fact: I made a career switch from professional legal practice to tech
 - 🎯 My goal is to stay up-to-date and grow in the industry
