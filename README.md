@@ -1,5 +1,5 @@
 # Mudiaga Moody Uwojeya Esq, 
-## Frontend Developer - Reactjs
+## Frontend Developer - React
 
 <!--
 **moody2times/moody2times** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
