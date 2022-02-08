@@ -7,7 +7,7 @@
 
 ### hello there :smile:,
 
-- 🌱 I’m currently learning **Bash and Shell Scripting**
+- 🌱 I’m currently learning **Powershell**
 - 👯 I’m currently a member of Hermit Tools, check it out and contribute
 - 🤔 I’m actively searching for a remote frontend developer role
 - 📫 How to reach me: moody.mudiaga@gmail.com
