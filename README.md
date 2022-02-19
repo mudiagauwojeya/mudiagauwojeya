@@ -13,5 +13,5 @@
 - ⚡ Fun fact: I made a career switch from professional legal practice to tech
 - 🎯 My goal is to stay up-to-date and grow in the industry
 - 💘 I love playing on the guitar, reading manga, writing sonnets, learning new tech etc
-- 📫 Reach me via [mail](moody.mudiaga@gmail.com)
+- 📫 Reach me via [mail](mailto:moody.mudiaga@gmail.com)
 - 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
