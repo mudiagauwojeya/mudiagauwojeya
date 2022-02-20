@@ -14,8 +14,6 @@ A **Front-End Developer** with some 2 years of experience building websites and 
 - ⚡ Fun fact: I made a career switch from professional legal practice to tech
 - 🎯 My goal is to put value on the table while growing my skills
 - 💘 I love playing on the guitar, reading manga, writing sonnets, learning new tech etc
-- 📫 Reach me via [mail]()
-- 🌍 Connect with me on [LinkedIn]
 
 
 <!--
