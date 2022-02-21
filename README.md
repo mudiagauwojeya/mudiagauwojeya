@@ -1,7 +1,7 @@
 # Mudiaga Moody Uwojeya Esq,
-[![](https://img.shields.io/badge/Twitter-%40moodymudiaga-9cf?style=plastic&logo=twitter&labelColor=white&logoWidth=20)](https://twitter.com/MoodyMudiaga)
+[![](https://img.shields.io/badge/Twitter-%40moodymudiaga-9cf?style=plastic&logo=twitter&labelColor=lightgrey&logoWidth=20)](https://twitter.com/MoodyMudiaga)
 [![](https://img.shields.io/badge/LinkedIn-Mudiaga%20Moody%20Uwojeya-blue?style=plastic&logo=linkedin&labelColor=lightgrey&logoWidth=20)](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
-[![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-critical?style=plastic&logo=gmail&labelColor=white&logoWidth=20)](mailto:moody.mudiaga@gmail.com)
+[![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-critical?style=plastic&logo=gmail&labelColor=lightgrey&logoWidth=20)](mailto:moody.mudiaga@gmail.com)
 
 
 A **Front-End Developer** with some 2 years of experience building websites and web applications. 
