@@ -6,6 +6,7 @@
 
 A **Front-End Developer** with some 2 years of experience building websites and web applications. 
 
+![](./assets/hacktoberfest-2020-badge.png)
 
 - 🌱 I’m currently learning **Linux**
 - 👯 I’m currently a member of **Hermit Tools**, check it out and contribute
