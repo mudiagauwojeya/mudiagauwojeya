@@ -11,7 +11,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 - 🌱 I’m currently learning **Linux**
 - 👯 I’m currently a member of **Hermit Tools**, check it out and contribute
-- 🏗️ Will soon be building projects with teams on _Chingu_
+- 🏗️ Will soon be building experience with teams on _Chingu_
 - 🕵️ I’m actively searching for a remote frontend developer role
 - ⚡ Fun fact: I made a career switch from professional legal practice to tech
 - 🎯 My goal is to put value on the table while growing my skills
