@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-critical?style=plastic&logo=gmail&labelColor=lightgrey&logoWidth=20)](mailto:moody.mudiaga@gmail.com)
 
 
-A **Front-End Developer** with some 2 years of experience building websites and web applications. 
+A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience building and optimizing websites and web applications. 
 
 [<img src="./assets/hacktoberfest-2020-badge.png" width="200px" height="190px">](./assets/hacktoberfest-2020-badge.png)
 [<img src="./assets/screenshot-mma-comment.png" width="700px" height="190px">](./assets/hacktoberfest-2020-badge.png)
