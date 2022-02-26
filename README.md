@@ -25,6 +25,12 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 <br>
 
+### Tech stack
+
+| Tech | Experience 
+
+<br>
+
 ### Another part of me (When I'm not coding)
 
 - 🎸 I love playing on the guitar and reading manga
