@@ -18,9 +18,10 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 ### Growing my skills
 
-- 🌱 I’m currently learning **Linux**
-- 👯 I’m currently a member of **Hermit Tools**, check it out and contribute
+- 🤝 Member of **Hermit Tools**
+- 👯 Contributing to open source at [thumbnail-maker](https://hermit-tools.github.io/thumbnail-maker)
 - 🏗️ Will soon be building experience with teams on _Chingu_
+- 🌱 I’m currently learning **Linux**
 - 🕵️ I’m actively searching for a remote frontend developer role
 
 <br>
