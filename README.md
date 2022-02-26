@@ -3,7 +3,9 @@
 [![](https://img.shields.io/badge/LinkedIn-Mudiaga%20Moody%20Uwojeya-blue?style=plastic&logo=linkedin&labelColor=lightgrey&logoWidth=20)](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
 [![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-red?style=plastic&logo=gmail&labelColor=lightgrey&logoWidth=20)](mailto:moody.mudiaga@gmail.com)
 
-A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience building and optimizing websites and web applications. Putting value on the table while growing my skills.
+A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience building and optimizing websites and web applications.
+
+### Putting value on the table
 
 [<img src="./assets/screenshot-mma-comment.png" width="800px" height="190px">](./assets/hacktoberfest-2020-badge.png)
 [<img src="./assets/hacktoberfest-2020-badge.png" width="200px" height="190px">](./assets/hacktoberfest-2020-badge.png)
