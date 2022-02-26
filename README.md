@@ -5,11 +5,18 @@
 
 A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience building and optimizing websites and web applications.
 
+<br>
+
 ### Putting value on the table
+
+<br>
 
 [<img src="./assets/screenshot-mma-comment.png" width="800px" height="190px">](./assets/hacktoberfest-2020-badge.png)
 [<img src="./assets/hacktoberfest-2020-badge.png" width="200px" height="190px">](./assets/hacktoberfest-2020-badge.png)
 
+<br>
+
+### Growing my skills
 
 - 🌱 I’m currently learning **Linux**
 - 👯 I’m currently a member of **Hermit Tools**, check it out and contribute
