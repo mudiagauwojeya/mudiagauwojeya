@@ -19,7 +19,6 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 ### Growing my skills
 
 - 🤝 Member of **Hermit Tools**
-//TODO: CHECK FOR CORRECT URL
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker)
 - 🏗️ Will soon be building experience with teams on _Chingu_
 - 🌱 I’m currently learning **Linux**
