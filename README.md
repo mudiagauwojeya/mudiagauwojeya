@@ -31,7 +31,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 | Tech | Years of Experience |
 | :--- | ---: |
-| React | 0 |
+| React | WIP |
 | JavaScript | 2 |
 | CSS/Sass | 2 |
 | HTML | 2 |
