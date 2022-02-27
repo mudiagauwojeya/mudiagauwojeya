@@ -42,7 +42,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 ### Another part of me (When I'm not coding)
 
 - 🎸 I love playing on the guitar and reading manga
-- 📝 Writing sonnets, haikus and poems. Find that [here](https://uwojeyamudiaga.github.io/poesy)
+- 📝 Writing sonnets, haikus and poems. Find that [here](https://github.com/uwojeyamudiaga/poesy)
 - ⚡ Fun fact: I made a career switch from professional legal practice to tech
 
 
