@@ -48,8 +48,8 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 ### Another part of me (When I'm not coding)
 
 - 🎸 I love playing on the guitar and reading manga
-- 📝 Writing sonnets, haikus and poems. Find that repository [here](https://github.com/uwojeyamudiaga/poesy)
-- ⚡ Fun fact: I made a career switch from professional legal practice to tech
+- 📝 Writing sonnets, haikus and poems. Find my [poems repository here](https://github.com/uwojeyamudiaga/poesy). I have been read 73172 times at [https://www.voicesnet.com/user/documents](https://www.voicesnet.com/user/documents)
+- ⚡ Fun fact: I switched from legal practice to tech
 
 
 <!--
