@@ -35,6 +35,12 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 | CSS/Sass | 2 |
 | HTML | 2 |
 | Git & GitHub | 2 |
+| Node | WIP |
+| Express | WIP |
+| MongoDB | WIP |
+| Scrum |  WIP |
+| Redux | WIP |
+| CLI | 2 |
 
 
 <br>
