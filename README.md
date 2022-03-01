@@ -20,8 +20,10 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 - 🤝 Member of **Hermit Tools**
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker)
+- 🎓 Participating in [Coding Dojo](https://github.com/codeconnector/CodingDojo)
+- 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
 - 🏗️ Will soon be building experience with teams on _Chingu_
-- 🌱 I’m currently learning **Linux**
+- 🌱 I’m currently learning **Scrum**
 - 🕵️ I’m actively searching for a remote frontend developer role
 
 <br>
