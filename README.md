@@ -36,6 +36,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 | JavaScript | 2 |
 | CSS/Sass | 2 |
 | HTML | 2 |
+| Bootstrap | 2 |
 | Git & GitHub | 2 |
 | Node | WIP |
 | Express | WIP |
@@ -57,7 +58,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
         * A website I built for a small start up that provides 2d whiteboard animation services.
     + Tools
         * Built with HTML, CSS, Sass, JavaScript, Bootstrap
-- [] Manga
+- [ ] Manga
 
 <br>
 
