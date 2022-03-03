@@ -44,6 +44,17 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 | Redux | WIP |
 | CLI | 2 |
 
+<br>
+
+## Projects
+- [x] Portfolio Website
+    + Description
+        * My personal website built to create my online presence as a freelance frontend developer.
+    + Tools
+        * Built with HTML, CSS, Sass, JavaScript
+- [x] Whiteboard360 website - a business that offers 2d whiteboard animation service
+    * Built with HTML, CSS, Sass, JavaScript, Bootstrap
+- [] Manga
 
 <br>
 
