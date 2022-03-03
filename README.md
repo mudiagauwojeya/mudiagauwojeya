@@ -52,8 +52,11 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
         * My personal website built to create my online presence as a freelance frontend developer.
     + Tools
         * Built with HTML, CSS, Sass, JavaScript
-- [x] Whiteboard360 website - a business that offers 2d whiteboard animation service
-    * Built with HTML, CSS, Sass, JavaScript, Bootstrap
+- [x] Whiteboard360 website
+    + Description
+        * A website I built for a small start up that provides 2d whiteboard animation services.
+    + Tools
+        * Built with HTML, CSS, Sass, JavaScript, Bootstrap
 - [] Manga
 
 <br>
