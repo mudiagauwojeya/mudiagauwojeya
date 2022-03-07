@@ -62,8 +62,6 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
         * Built with HTML, CSS, Sass, JavaScript, Bootstrap
     + Deployment
         * Find this website [here](https://uwojeyamudiaga.github.io/Whiteboard360/)
-- [ ] Manga
-
 <br>
 
 ### Another part of me (because I like Michael Jackson)
