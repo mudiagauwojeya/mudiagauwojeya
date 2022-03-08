@@ -52,21 +52,21 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
     + Description
         * My personal website built to create my online presence as a freelance frontend developer.
     + Tools
-        * HTML, CSS, Sass, JavaScript, Git, CLI, GitHub
+        * HTML, CSS, Sass, JavaScript, Git, CLI, and GitHub
     + Deployment
         * Find my portfolio website [here](https://eager-bartik-e30f1f.netlify.app/)
 - [x] Whiteboard360 Website
     + Description
         * A website I built for a small start up that provides 2d whiteboard animation services.
     + Tools
-        * HTML, CSS, Sass, JavaScript, Bootstrap, Git, CLI, GitHub
+        * HTML, CSS, Sass, JavaScript, Bootstrap, Git, CLI, and GitHub
     + Deployment
         * Find this website [here](https://uwojeyamudiaga.github.io/Whiteboard360/)
 - [] Manga
     + Description
         * A website that displays quotes from manga and anime characters.
     + Tools
-        * HTML, CSS, Sass, JavaScript, RESTful API, Git, CLI, GitHub
+        * HTML, CSS, Sass, JavaScript, RESTful API, Git, CLI, and GitHub
     + Deployment
         * Find this website [here](https://uwojeyamudiaga.github.io/manga/)
 
