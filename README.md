@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/LinkedIn-Mudiaga%20Moody%20Uwojeya-blue?style=plastic&logo=linkedin&labelColor=lightgrey&logoWidth=20)](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
 [![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-red?style=plastic&logo=gmail&labelColor=lightgrey&logoWidth=20)](mailto:moody.mudiaga@gmail.com)
 
-A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience building and optimizing websites and web applications focused on putting value on the table while growing my skills.
+A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience building and optimizing websites and web applications, and a strong problem-solving background. Click the LinkedIn badge above to visit my profile.
 
 <br>
 
