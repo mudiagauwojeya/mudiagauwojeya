@@ -68,7 +68,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
     + Tools
         * HTML, CSS, Sass, JavaScript, RESTful API, Git, CLI, and GitHub
     + Deployment
-        * Find this website [here](https://uwojeyamudiaga.github.io/manga/)
+        * Find this website [here](https://uwojeyamudiaga.github.io/Manga/)
 
 <br>
 <br>
