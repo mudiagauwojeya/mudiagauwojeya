@@ -62,7 +62,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
         * HTML, CSS, Sass, JavaScript, Bootstrap, Git, CLI, and GitHub
     + Deployment
         * Find this website [here](https://uwojeyamudiaga.github.io/Whiteboard360/)
-- [] Manga
+- [ ] Manga
     + Description
         * A website that displays quotes from manga and anime characters.
     + Tools
