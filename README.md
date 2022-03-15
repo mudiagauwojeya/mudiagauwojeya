@@ -44,6 +44,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 | Scrum |  WIP |
 | Redux | WIP |
 | CLI | 2 |
+| Jest | WIP |
 
 <br>
 
