@@ -47,6 +47,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 | Jest | WIP |
 | SEO | WIP |
 | Trello | WIP |
+| ZenHub | WIP |
 
 <br>
 
