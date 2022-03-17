@@ -28,7 +28,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 <br>
 
-### Skillset
+### Skills and Tools
 
 | Tech | Years of Experience |
 | :--- | ---: |
@@ -46,6 +46,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 | CLI | 2 |
 | Jest | WIP |
 | SEO | WIP |
+| Trello | WIP |
 
 <br>
 
