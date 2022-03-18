@@ -32,6 +32,8 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 [<img src="assets/SVG/javascript.svg" />](./assets/SVG/javascript.svg)
 [<img src="assets/SVG/react.svg" />](./assets/SVG/react.svg)
 [<img src="assets/SVG/typescript.svg" />](./assets/SVG/typescript.svg)
+[<img src="assets/SVG/node-dot-js.svg" />](./assets/SVG/node-dot-js.svg)
+
 
 
 
