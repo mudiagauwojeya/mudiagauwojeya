@@ -36,10 +36,13 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 [<img src="assets/SVG/html5.svg" />](./assets/SVG/html5.svg)
 [<img src="assets/SVG/css3.svg" />](./assets/SVG/css3.svg)
 [<img src="assets/SVG/sass.svg" />](./assets/SVG/sass.svg)
+[<img src="assets/SVG/markdown.svg" />](./assets/SVG/markdown.svg)
+[<img src="assets/SVG/php.svg" />](./assets/SVG/php.svg)
 
 
 
-| Tech | Years of Experience |
+
+<!-- | Tech | Years of Experience |
 | :--- | ---: |
 | React | WIP |
 | JavaScript | 2 |
@@ -56,7 +59,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 | Jest | WIP |
 | SEO | WIP |
 | Trello | WIP |
-| ZenHub | WIP |
+| ZenHub | WIP | -->
 
 <br>
 
