@@ -34,7 +34,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 [<img src="assets/SVG/typescript.svg" />](./assets/SVG/typescript.svg)
 [<img src="assets/SVG/node-dot-js.svg" />](./assets/SVG/node-dot-js.svg)
 [<img src="assets/SVG/html5.svg" />](./assets/SVG/html5.svg)
-
+[<img src="assets/SVG/css3.svg" />](./assets/SVG/css3.svg)
 
 
 
