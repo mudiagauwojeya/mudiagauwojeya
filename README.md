@@ -29,6 +29,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 <br>
 
 ### Skills
+
 [<img src="assets/SVG/javascript.svg" />](./assets/SVG/javascript.svg)
 [<img src="assets/SVG/react.svg" />](./assets/SVG/react.svg)
 [<img src="assets/SVG/typescript.svg" />](./assets/SVG/typescript.svg)
@@ -39,7 +40,11 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 [<img src="assets/SVG/markdown.svg" />](./assets/SVG/markdown.svg)
 [<img src="assets/SVG/php.svg" />](./assets/SVG/php.svg)
 
+<br>
 
+### Tools
+
+[<img src="assets/SVG/postman.svg" />](./assets/SVG/postman.svg)
 
 
 <!-- | Tech | Years of Experience |
