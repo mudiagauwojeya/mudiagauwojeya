@@ -59,19 +59,11 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 <!-- | Tech | Years of Experience |
 | :--- | ---: |
-| React | WIP |
-| JavaScript | 2 |
-| CSS/Sass | 2 |
-| HTML | 2 |
 | Bootstrap | 2 |
-| Git & GitHub | 2 |
-| Node | WIP |
 | Express | WIP |
 | MongoDB | WIP |
 | Agile/Scrum |  WIP |
 | Redux | WIP |
-| CLI | 2 |
-| Jest | WIP |
 | SEO | WIP |
 | Trello | WIP |
 | ZenHub | WIP | -->
