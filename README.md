@@ -49,6 +49,12 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 [<img src="assets/SVG/npm.svg" />](./assets/SVG/npm.svg)
 [<img src="assets/SVG/jest.svg" />](./assets/SVG/jest.svg)
 
+<br>
+
+### DevOps
+
+[<img src="assets/SVG/github.svg" />](./assets/SVG/github.svg)
+
 
 <!-- | Tech | Years of Experience |
 | :--- | ---: |
