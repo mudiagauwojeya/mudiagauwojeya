@@ -30,15 +30,15 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 ### Skills
 
-[<img src="assets/SVG/javascript.svg" />](./assets/SVG/javascript.svg)
-[<img src="assets/SVG/react.svg" />](./assets/SVG/react.svg)
-[<img src="assets/SVG/typescript.svg" />](./assets/SVG/typescript.svg)
-[<img src="assets/SVG/node-dot-js.svg" />](./assets/SVG/node-dot-js.svg)
-[<img src="assets/SVG/html5.svg" />](./assets/SVG/html5.svg)
-[<img src="assets/SVG/css3.svg" />](./assets/SVG/css3.svg)
-[<img src="assets/SVG/sass.svg" />](./assets/SVG/sass.svg)
-[<img src="assets/SVG/markdown.svg" />](./assets/SVG/markdown.svg)
-[<img src="assets/SVG/php.svg" />](./assets/SVG/php.svg)
+![<img src="assets/SVG/javascript.svg" />](./assets/SVG/javascript.svg)
+![<img src="assets/SVG/react.svg" />](./assets/SVG/react.svg)
+![<img src="assets/SVG/typescript.svg" />](./assets/SVG/typescript.svg)
+![<img src="assets/SVG/node-dot-js.svg" />](./assets/SVG/node-dot-js.svg)
+![<img src="assets/SVG/html5.svg" />](./assets/SVG/html5.svg)
+![<img src="assets/SVG/css3.svg" />](./assets/SVG/css3.svg)
+![<img src="assets/SVG/sass.svg" />](./assets/SVG/sass.svg)
+![<img src="assets/SVG/markdown.svg" />](./assets/SVG/markdown.svg)
+![<img src="assets/SVG/php.svg" />](./assets/SVG/php.svg)
 
 <br>
 
