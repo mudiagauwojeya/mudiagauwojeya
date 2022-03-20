@@ -39,22 +39,24 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 ![<img src="assets/SVG/sass.svg" />](./assets/SVG/sass.svg)
 ![<img src="assets/SVG/markdown.svg" />](./assets/SVG/markdown.svg)
 ![<img src="assets/SVG/php.svg" />](./assets/SVG/php.svg)
+![<img src="assets/SVG/bootstrap.svg" />](./assets/SVG/bootstrap.svg)
+![<img src="assets/SVG/php.svg" />](./assets/SVG/php.svg)
 
 <br>
 
 ### Tools
 
-[<img src="assets/SVG/git.svg" />](./assets/SVG/git.svg)
-[<img src="assets/SVG/visualstudiocode.svg" />](./assets/SVG/visualstudiocode.svg)
-[<img src="assets/SVG/npm.svg" />](./assets/SVG/npm.svg)
-[<img src="assets/SVG/jest.svg" />](./assets/SVG/jest.svg)
-[<img src="assets/SVG/postman.svg" />](./assets/SVG/postman.svg)
+![<img src="assets/SVG/git.svg" />](./assets/SVG/git.svg)
+![<img src="assets/SVG/visualstudiocode.svg" />](./assets/SVG/visualstudiocode.svg)
+![<img src="assets/SVG/npm.svg" />](./assets/SVG/npm.svg)
+![<img src="assets/SVG/jest.svg" />](./assets/SVG/jest.svg)
+![<img src="assets/SVG/postman.svg" />](./assets/SVG/postman.svg)
 
 <br>
 
 ### DevOps
 
-[<img src="assets/SVG/github.svg" />](./assets/SVG/github.svg)
+![<img src="assets/SVG/github.svg" />](./assets/SVG/github.svg)
 
 
 <!-- | Tech | Years of Experience |
