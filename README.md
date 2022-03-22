@@ -60,7 +60,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 ### DevOps
 
 ![<img src="assets/SVG/github.svg" />](./assets/SVG/github.svg)
-Agile/Scrum,
+Agile [Scrum]
 
 
 <!-- | Tech | Years of Experience |
