@@ -24,7 +24,6 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 - 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
 - 🏗️ Building experience with teams on _Chingu_ voyage 38
 - 🌱 I’m currently learning **Scrum**
-- 🕵️ I’m actively searching for a remote frontend developer role
 
 <br>
 
