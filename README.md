@@ -42,6 +42,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 ![<img src="assets/SVG/jquery.svg" />](./assets/SVG/jquery.svg)
 ![<img src="assets/SVG/redux.svg" />](./assets/SVG/redux.svg)
 ![<img src="assets/SVG/mongodb.svg" />](./assets/SVG/mongodb.svg)
+![<img src="assets/SVG/mysql.svg" />](./assets/SVG/mysql.svg)
 
 <br>
 
