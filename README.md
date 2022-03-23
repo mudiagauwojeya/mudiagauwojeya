@@ -47,7 +47,6 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 ### Tools
 
-![<img src="assets/SVG/git.svg" />](./assets/SVG/git.svg)
 ![<img src="assets/SVG/visualstudiocode.svg" />](./assets/SVG/visualstudiocode.svg)
 ![<img src="assets/SVG/npm.svg" />](./assets/SVG/npm.svg)
 ![<img src="assets/SVG/jest.svg" />](./assets/SVG/jest.svg)
@@ -60,6 +59,7 @@ ZenHub
 
 ### DevOps
 
+![<img src="assets/SVG/git.svg" />](./assets/SVG/git.svg)
 ![<img src="assets/SVG/github.svg" />](./assets/SVG/github.svg)
 Agile [Scrum]
 
