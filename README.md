@@ -107,6 +107,7 @@ Agile [Scrum]
 - [ ] Learn Java and frameworks
 - [ ] Learn Python and frameworks
 - [ ] Learn AWS
+- [ ] Learn DevOps
 - [ ] Refresh on php and learn php frameworks
 - [ ] Deep dive into SQL
 - [ ] Deep dive into nodejs
