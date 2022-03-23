@@ -103,6 +103,7 @@ Agile [Scrum]
 
 ### To do
 
+- [ ] Get a role as a frontend developer
 - [ ] Learn Java and frameworks
 - [ ] Learn Python and frameworks
 - [ ] Learn AWS
