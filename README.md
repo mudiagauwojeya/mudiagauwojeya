@@ -63,14 +63,6 @@ ZenHub
 ![<img src="assets/SVG/github.svg" />](./assets/SVG/github.svg)
 Agile [Scrum]
 
-
-<!-- | Tech | Years of Experience |
-| :--- | ---: |
-| Express | WIP |
-| Agile/Scrum |  WIP |
-| SEO | WIP |
-| ZenHub | WIP | -->
-
 <br>
 
 ### Projects
