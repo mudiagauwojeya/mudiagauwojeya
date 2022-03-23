@@ -93,7 +93,7 @@ Agile [Scrum]
 
 ### Another part of me (because I like Michael Jackson)
 
-- 🎸 I love playing on the guitar and reading manga
+- 🎸 Love playing on the guitar and reading manga
 - 📝 Writing sonnets, haikus and poems. Find my [poems repository here](https://github.com/uwojeyamudiaga/poesy). I have been read 73172 times at [https://www.voicesnet.com/user/documents](https://www.voicesnet.com/user/documents)
 - ⚡ Fun fact: I switched from legal practice to tech
 - 📚 Currently learning Japanese
