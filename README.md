@@ -106,6 +106,9 @@ Agile [Scrum]
 - [ ] Learn Java and frameworks
 - [ ] Learn Python and frameworks
 - [ ] Learn AWS
+- [ ] Refresh on php and learn php frameworks
+- [ ] Deep dive into SQL
+- [ ] Deep dive into nodejs
 
 <!--
 **moody2times/moody2times** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
