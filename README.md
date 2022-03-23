@@ -98,6 +98,14 @@ Agile [Scrum]
 - ⚡ Fun fact: I switched from legal practice to tech
 - 📚 Currently learning Japanese
 
+<br>
+<br>
+
+### To do
+
+- [ ] Learn Java and frameworks
+- [ ] Learn Python and frameworks
+- [ ] Learn AWS
 
 <!--
 **moody2times/moody2times** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
