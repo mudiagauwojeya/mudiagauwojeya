@@ -22,7 +22,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker)
 - 🎓 Participating in Code-Connector's [Coding Dojo](https://github.com/codeconnector/CodingDojo) weekly sessions
 - 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
-- 🏗️ Building experience with teams on _Chingu_ voyage 38
+- 🏗️ Building experience with teams on _Chingu_ voyages
 - 🌱 Currently taking a deep dive into **Nodejs**
 
 <br>
