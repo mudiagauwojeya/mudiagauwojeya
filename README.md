@@ -71,8 +71,12 @@ Agile [Scrum]
 - [x] Portfolio Website
     + Description
         * My personal website built to create my online presence as a freelance frontend developer.
+    + Skills
+        * HTML, CSS, Sass, JavaScript
     + Tools
-        * HTML, CSS, Sass, JavaScript, Git, CLI, and GitHub
+        * Webpack
+    + DevOps
+        * Git and GitHub
     + Deployment
         * Find my portfolio website [here](https://eager-bartik-e30f1f.netlify.app/)
 - [x] Whiteboard360 Website
