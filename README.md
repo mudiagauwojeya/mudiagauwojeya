@@ -82,7 +82,7 @@ Agile [Scrum]
         * HTML, CSS, Sass, JavaScript, Bootstrap, Git, CLI, and GitHub
     + Deployment
         * Find this website [here](https://uwojeyamudiaga.github.io/Whiteboard360/)
-- [ ] Manga
+- [ ] Talk No Jutsu
     + Description
         * A website that displays quotes from manga and anime characters.
     + Tools
