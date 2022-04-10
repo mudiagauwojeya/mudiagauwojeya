@@ -93,6 +93,8 @@ Agile [Scrum]
 - [ ] Talk No Jutsu
     + Description
         * A website that displays quotes from manga and anime characters.
+    + Skills
+        * HTML, CSS, Sass, JavaScript, RESTful API, Git, CLI, and GitHub
     + Tools
         * HTML, CSS, Sass, JavaScript, RESTful API, Git, CLI, and GitHub
     + Deployment
