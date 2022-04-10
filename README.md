@@ -94,9 +94,11 @@ Agile [Scrum]
     + Description
         * A website that displays quotes from manga and anime characters.
     + Skills
-        * HTML, CSS, Sass, JavaScript, RESTful API, Git, CLI, and GitHub
+        * HTML, CSS, Sass, JavaScript, RESTful API
     + Tools
-        * HTML, CSS, Sass, JavaScript, RESTful API, Git, CLI, and GitHub
+        * Parcel-bundler, npm
+    + DevOps
+        * Git and GitHub
     + Deployment
         * Find this website [here](https://uwojeyamudiaga.github.io/Manga/)
 
