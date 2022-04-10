@@ -85,7 +85,7 @@ Agile [Scrum]
     + Skills
         * HTML, CSS, Sass, JavaScript, Bootstrap
     + Tools
-        * 
+        * npm
     + DevOps
         * Git and GitHub
     + Deployment
