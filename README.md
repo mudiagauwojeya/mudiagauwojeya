@@ -74,7 +74,7 @@ Agile [Scrum]
     + Skills
         * HTML, CSS, Sass, JavaScript
     + Tools
-        * Webpack
+        * Parcel
     + DevOps
         * Git and GitHub
     + Deployment
