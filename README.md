@@ -82,6 +82,8 @@ Agile [Scrum]
 - [x] Whiteboard360 Website
     + Description
         * A website I built for a small start up that provides 2d whiteboard animation services.
+    + Skills
+        * HTML, CSS, Sass, JavaScript, Bootstrap
     + Tools
         * HTML, CSS, Sass, JavaScript, Bootstrap, Git, CLI, and GitHub
     + Deployment
