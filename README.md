@@ -85,7 +85,9 @@ Agile [Scrum]
     + Skills
         * HTML, CSS, Sass, JavaScript, Bootstrap
     + Tools
-        * HTML, CSS, Sass, JavaScript, Bootstrap, Git, CLI, and GitHub
+        * 
+    + DevOps
+        * Git and GitHub
     + Deployment
         * Find this website [here](https://uwojeyamudiaga.github.io/Whiteboard360/)
 - [ ] Talk No Jutsu
