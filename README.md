@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/LinkedIn-Mudiaga%20Moody%20Uwojeya-blue?style=plastic&logo=linkedin&labelColor=lightgrey&logoWidth=20)](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
 [![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-red?style=plastic&logo=gmail&labelColor=lightgrey&logoWidth=20)](mailto:mudiagauwojeya@gmail.com)
 
-A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience building and optimizing websites and web applications, and a strong problem-solving background.
+A **FullStack Developer (FrontEnd Heavy - React)** with 3 years of experience building and optimizing websites and web applications, and a strong problem-solving background.
 
 <br>
 
@@ -115,15 +115,15 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 ### To do
 
+- [ ] Deep dive into nodejs
 - [ ] Get a role as a frontend developer
+- [ ] Get a role as a backend developer
 - [ ] Learn Java and frameworks
 - [ ] Learn Python and frameworks
 - [ ] Learn AWS
 - [ ] Learn DevOps
 - [ ] Refresh on php and learn php frameworks
 - [ ] Deep dive into SQL
-- [ ] Deep dive into nodejs
-- [ ] Get a role as a backend developer
 
 <!--
 **moody2times/moody2times** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
