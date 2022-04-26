@@ -18,7 +18,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 
 ### Growing my skills
 
-- 🤝 Member of **Hermit Tools** and **Chingu**
+- 🤝 Member of **Hermit Tools**, **collAction** and **Chingu**
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker)
 - 🔧 Optimizing [coinprofit](https://coinprofit.app)
 - 🎓 Participating in Code-Connector's [Coding Dojo](https://github.com/codeconnector/CodingDojo) weekly sessions
@@ -55,7 +55,6 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 2 years of experience bu
 ![<img src="assets/SVG/postman.svg" />](./assets/SVG/postman.svg)
 ![<img src="assets/SVG/trello.svg" />](./assets/SVG/trello.svg)
 ![<img src="assets/SVG/ubuntu.svg" />](./assets/SVG/ubuntu.svg)
-ZenHub
 
 <br>
 
@@ -63,7 +62,6 @@ ZenHub
 
 ![<img src="assets/SVG/git.svg" />](./assets/SVG/git.svg)
 ![<img src="assets/SVG/github.svg" />](./assets/SVG/github.svg)
-Agile [Scrum]
 
 <br>
 
@@ -72,7 +70,7 @@ Agile [Scrum]
     + Description
         * My personal website built to create my online presence as a freelance frontend developer.
     + Skills
-        * HTML, CSS, Sass, JavaScript
+        * HTML, CSS, Sass, JavaScript, React, Nextjs
     + Tools
         * Parcel, npm
     + DevOps
