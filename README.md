@@ -1,4 +1,5 @@
 # Mudiaga Moody Uwojeya, Esq
+
 [![](https://img.shields.io/badge/Twitter-%40moodymudiaga-9cf?style=plastic&logo=twitter&labelColor=white&logoWidth=20)](https://twitter.com/MoodyMudiaga)
 [![](https://img.shields.io/badge/LinkedIn-Mudiaga%20Moody%20Uwojeya-blue?style=plastic&logo=linkedin&labelColor=lightgrey&logoWidth=20)](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
 [![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-red?style=plastic&logo=gmail&labelColor=lightgrey&logoWidth=20)](mailto:mudiagauwojeya@gmail.com)
@@ -20,7 +21,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 3 years of experience bu
 
 - 🤝 Member of **Hermit Tools**, **collAction** and **Chingu**
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker)
-- 🔧 Optimizing [coinprofit](https://coinprofit.app)
+- 🔧 Optimizing [coinprofit](https://coinprofit.app) website
 - 🎓 Participating in Code-Connector's [Coding Dojo](https://github.com/codeconnector/CodingDojo) weekly sessions
 - 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
 - 🏗️ Building experience with teams on _Chingu_ voyages
@@ -65,40 +66,41 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 3 years of experience bu
 
 <br>
 
-### Projects
+### Personal Projects
+
 - [x] Portfolio Website
-    + Description
-        * My personal website built to create my online presence as a freelance frontend developer.
-    + Skills
-        * HTML, CSS, Sass, JavaScript, React, Nextjs
-    + Tools
-        * Parcel, npm
-    + DevOps
-        * Git and GitHub
-    + Deployment
-        * Find my portfolio website [here](https://eager-bartik-e30f1f.netlify.app/)
+  - Description
+    - My personal website built to create my online presence as a freelance frontend developer.
+  - Skills
+    - HTML, CSS, Sass, JavaScript, React, Nextjs
+  - Tools
+    - Parcel, npm
+  - DevOps
+    - Git and GitHub
+  - Deployment
+    - Find my portfolio website [here](https://eager-bartik-e30f1f.netlify.app/)
 - [x] Whiteboard360 Website
-    + Description
-        * A website I built for a small start up that provides 2d whiteboard animation services.
-    + Skills
-        * HTML, CSS, Sass, JavaScript, Bootstrap
-    + Tools
-        * npm
-    + DevOps
-        * Git and GitHub
-    + Deployment
-        * Find this website [here](https://uwojeyamudiaga.github.io/Whiteboard360/)
+  - Description
+    - A website I built for a small start up that provides 2d whiteboard animation services.
+  - Skills
+    - HTML, CSS, Sass, JavaScript, Bootstrap
+  - Tools
+    - npm
+  - DevOps
+    - Git and GitHub
+  - Deployment
+    - Find this website [here](https://uwojeyamudiaga.github.io/Whiteboard360/)
 - [ ] Talk No Jutsu
-    + Description
-        * A website that displays quotes from manga and anime characters.
-    + Skills
-        * HTML, CSS, Sass, JavaScript, RESTful API
-    + Tools
-        * Parcel-bundler, npm
-    + DevOps
-        * Git and GitHub
-    + Deployment
-        * Find this website [here](https://uwojeyamudiaga.github.io/Manga/)
+  - Description
+    - A website that displays quotes from manga and anime characters.
+  - Skills
+    - HTML, CSS, Sass, JavaScript, RESTful API
+  - Tools
+    - Parcel-bundler, npm
+  - DevOps
+    - Git and GitHub
+  - Deployment
+    - Find this website [here](https://uwojeyamudiaga.github.io/Manga/)
 
 <br>
 <br>
