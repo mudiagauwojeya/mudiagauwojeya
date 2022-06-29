@@ -14,6 +14,11 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 3 years of experience bu
 
 [<img src="./assets/screenshot-mma-comment.png" width="800px" height="190px">](./assets/hacktoberfest-2020-badge.png)
 [<img src="./assets/hacktoberfest-2020-badge.png" width="200px" height="190px">](./assets/hacktoberfest-2020-badge.png)
+[<img src="./assets/feedback_4.png" width="100%">](./assets/feedback_4.png)
+[<img src="./assets/feedback_5.png" width="100%">](./assets/feedback_5.png)
+[<img src="./assets/feedback_3.png" width="100%">](./assets/feedback_3.png)
+[<img src="./assets/feedback_2.png" width="100%">](./assets/feedback_2.png)
+[<img src="./assets/feedback_1.png" width="100%">](./assets/feedback_1.png)
 
 <br>
 
