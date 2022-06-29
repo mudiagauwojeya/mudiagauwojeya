@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/LinkedIn-Mudiaga%20Moody%20Uwojeya-blue?style=plastic&logo=linkedin&labelColor=lightgrey&logoWidth=20)](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
 [![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-red?style=plastic&logo=gmail&labelColor=lightgrey&logoWidth=20)](mailto:mudiagauwojeya@gmail.com)
 
-A **FullStack Developer (FrontEnd Heavy - React)** with 3 years of experience building and optimizing websites and web applications, and a strong problem-solving background.
+A **Full-Stack Developer (FrontEnd Heavy - React)** with 3 years of experience building and optimizing websites and web applications, and a strong problem-solving background.
 
 <br>
 
@@ -25,7 +25,7 @@ A **FullStack Developer (FrontEnd Heavy - React)** with 3 years of experience bu
 ### Growing my skills
 
 - 🤝 Member of **Hermit Tools**, **collAction** and **Chingu**
-- 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker)
+- 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker) and [collAction](https://github.com/CollActionteam/collaction_website)
 - 🔧 Optimizing [coinprofit](https://coinprofit.app) website
 - 🎓 Participating in Code-Connector's [Coding Dojo](https://github.com/codeconnector/CodingDojo) weekly sessions
 - 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
