@@ -4,12 +4,14 @@
 [![](https://img.shields.io/badge/LinkedIn-Mudiaga%20Moody%20Uwojeya-blue?style=plastic&logo=linkedin&labelColor=lightgrey&logoWidth=20)](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
 [![](https://img.shields.io/badge/Gmail-mudiagauwojeya@gmail.com-red?style=plastic&logo=gmail&labelColor=lightgrey&logoWidth=20)](mailto:mudiagauwojeya@gmail.com)
 
-A **Full-Stack Developer (FrontEnd Heavy - React)** with 3 years of experience building and optimizing websites and web applications, and a strong problem-solving background.
+A **React and Nodejs** developer with 4 years of experience and a strong problem-solving background.
 
 <br>
 
 ### Putting value on the table
 
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=mudiagauwojeya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br>
 
 [<img src="./assets/screenshot-mma-comment.png" width="800px" height="190px">](./assets/hacktoberfest-2020-badge.png)
@@ -22,15 +24,13 @@ A **Full-Stack Developer (FrontEnd Heavy - React)** with 3 years of experience b
 
 <br>
 
-### Growing my skills
+### I am
 
-- 🤝 Member of **Hermit Tools**, **collAction** and **Chingu**
+- 👨‍💼 A freelancer on Upwork
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker) and [collAction](https://github.com/CollActionteam/collaction_website)
 - 🔧 Optimizing [coinprofit](https://coinprofit.app) website
 - 🎓 Participating in Code-Connector's [Coding Dojo](https://github.com/codeconnector/CodingDojo) weekly sessions
 - 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
-- 🏗️ Building experience with teams on _Chingu_ voyages
-- 🌱 Currently taking a deep dive into **Nodejs**
 
 <br>
 
@@ -71,45 +71,6 @@ A **Full-Stack Developer (FrontEnd Heavy - React)** with 3 years of experience b
 
 <br>
 
-### Personal Projects
-
-- [x] Portfolio Website
-  - Description
-    - My personal website built to create my online presence as a freelance frontend developer.
-  - Skills
-    - HTML, CSS, Sass, JavaScript, React, Nextjs
-  - Tools
-    - Parcel, npm
-  - DevOps
-    - Git and GitHub
-  - Deployment
-    - Find my portfolio website [here](https://eager-bartik-e30f1f.netlify.app/)
-- [x] Whiteboard360 Website
-  - Description
-    - A website I built for a small start up that provides 2d whiteboard animation services.
-  - Skills
-    - HTML, CSS, Sass, JavaScript, Bootstrap
-  - Tools
-    - npm
-  - DevOps
-    - Git and GitHub
-  - Deployment
-    - Find this website [here](https://uwojeyamudiaga.github.io/Whiteboard360/)
-- [ ] Talk No Jutsu
-  - Description
-    - A website that displays quotes from manga and anime characters.
-  - Skills
-    - HTML, CSS, Sass, JavaScript, RESTful API
-  - Tools
-    - Parcel-bundler, npm
-  - DevOps
-    - Git and GitHub
-  - Deployment
-    - Find this website [here](https://uwojeyamudiaga.github.io/Manga/)
-
-<br>
-<br>
-
 ### Another part of me (because I like Michael Jackson)
 
 - 🎸 Love playing on the guitar and reading manga
@@ -118,19 +79,6 @@ A **Full-Stack Developer (FrontEnd Heavy - React)** with 3 years of experience b
 - 📚 Currently learning Japanese
 
 <br>
-<br>
-
-### To do
-
-- [ ] Deep dive into nodejs
-- [ ] Get a role as a frontend developer
-- [ ] Get a role as a backend developer
-- [ ] Learn Java and frameworks
-- [ ] Learn Python and frameworks
-- [ ] Learn AWS
-- [ ] Learn DevOps
-- [ ] Refresh on php and learn php frameworks
-- [ ] Deep dive into SQL
 
 <!--
 **moody2times/moody2times** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
