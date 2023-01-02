@@ -11,7 +11,7 @@ A **React and Nodejs** developer with 4 years of experience and a strong problem
 ### Putting value on the table
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=mudiagauwojeya&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=mudiagauwojeya&&show_icons=true&title_color=ffffff&icon_color=27fb6b&text_color=dee2e6&bg_color=014f86">
 <br>
 
 [<img src="./assets/screenshot-mma-comment.png" width="800px" height="190px">](./assets/hacktoberfest-2020-badge.png)
