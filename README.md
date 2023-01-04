@@ -18,7 +18,9 @@ A React and Nodejs developer with 4 years of experience
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mudiagauwojeya&label=Profile%20views&color=0e75b6&style=flat" alt="mudiagauwojeya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudiagauwojeya" alt="mudiagauwojeya" /></a> </p>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mudiagauwojeya&theme=matrix&margin-w=10&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
