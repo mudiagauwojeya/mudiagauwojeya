@@ -1,5 +1,5 @@
 # Mudiaga Moody Uwojeya, Esq
-#### A React and Nodejs developer with 4 years of experience
+A React and Nodejs developer with 4 years of experience
 
 [![](https://img.shields.io/badge/Twitter-%40moodymudiaga-9cf?style=plastic&logo=twitter&labelColor=white&logoWidth=20)](https://twitter.com/MoodyMudiaga)
 [![](https://img.shields.io/badge/LinkedIn-Mudiaga%20Moody%20Uwojeya-blue?style=plastic&logo=linkedin&labelColor=lightgrey&logoWidth=20)](https://www.linkedin.com/in/mudiaga-moody-uwojeya)
@@ -11,8 +11,7 @@
 
 - 👨‍💼 A freelancer on Upwork
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker) and [collAction](https://github.com/CollActionteam/collaction_website)
-- 🔧 Optimizing [coinprofit](https://coinprofit.app) website
-- 🎓 Participating in Code-Connector's [Coding Dojo](https://github.com/codeconnector/CodingDojo) weekly sessions
+- 🔧 Currently building Research Buddy
 - 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
 
 <br>
@@ -52,7 +51,7 @@
 - 🎸 Love playing on the guitar and reading manga
 - 📝 Writing sonnets, haikus and poems. Find my [poems repository here](https://github.com/uwojeyamudiaga/poesy). I have been read 73172 times at [https://www.voicesnet.com/user/documents](https://www.voicesnet.com/user/documents)
 - ⚡ Fun fact: I switched from legal practice to tech
-- 📚 Currently learning Japanese
+- 📚 Currently learning Japanese and Spanish
 
 
 <!--
