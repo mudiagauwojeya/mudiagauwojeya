@@ -7,7 +7,7 @@ A React and Nodejs developer with 4 years of experience
 
 <br>
 
-### I am
+## About
 
 - 👨‍💼 A freelancer on Upwork
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker) and [CollAction](https://github.com/CollActionteam/collaction_website)
@@ -38,7 +38,7 @@ A React and Nodejs developer with 4 years of experience
 
 ### Feedback
 
-[<img src="./assets/screenshot-mma-comment.png" width="800px" height="190px">](./assets/hacktoberfest-2020-badge.png)
+[<img src="./assets/screenshot-mma-comment.png" width="800px" height="190px">](./assets/screenshot-mma-comment.png)
 [<img src="./assets/hacktoberfest-2020-badge.png" width="200px" height="190px">](./assets/hacktoberfest-2020-badge.png)
 [<img src="./assets/feedback_4.png" width="100%">](./assets/feedback_4.png)
 [<img src="./assets/feedback_5.png" width="100%">](./assets/feedback_5.png)
