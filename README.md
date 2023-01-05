@@ -35,6 +35,7 @@ A React and Nodejs developer with 4 years of experience
 
 ![Mudiaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudiagauwojeya&show_icons=true&locale=en&text_color=dee2e6&theme=merko&count_private=true)
 
+<br>
 
 ### Feedback
 
