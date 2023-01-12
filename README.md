@@ -29,9 +29,10 @@ A React and Nodejs developer with 4 years of experience
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudiagauwojeya&show_icons=true&locale=en&langs_count=10&theme=merko&layout=compact)](https://github.com/mudiagauwojeya/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mudiagauwojeya&theme=merko)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudiagauwojeya&show_icons=true&locale=en&langs_count=10&theme=merko&layout=compact)](https://github.com/mudiagauwojeya/github-readme-stats)
 
 ![Mudiaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudiagauwojeya&show_icons=true&locale=en&text_color=dee2e6&theme=merko&count_private=true)
 
