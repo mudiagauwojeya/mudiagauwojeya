@@ -8,9 +8,9 @@ A React and Nodejs developer with 4 years of experience
 
 <br>
 
-## About
+## About Me
 
-- 👨‍💼 A freelancer on Upwork
+- 👨‍💼 A freelancer
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker) and [CollAction](https://github.com/CollActionteam/collaction_website)
 - 🔧 Currently collaborating to build Research Buddy
 - 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
@@ -76,7 +76,7 @@ A React and Nodejs developer with 4 years of experience
 
 <br>
 
-### Feedback
+### Feedbacks
 
 [<img src="./assets/screenshot-mma-comment.png" width="800px" height="190px">](./assets/screenshot-mma-comment.png)
 [<img src="./assets/hacktoberfest-2020-badge.png" width="200px" height="190px">](./assets/hacktoberfest-2020-badge.png)
