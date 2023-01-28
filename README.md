@@ -96,6 +96,11 @@ A React and Nodejs developer with 4 years of experience
 - ⚡ Fun fact: I switched from legal practice to tech
 - 📚 Currently learning Japanese and Spanish
 
+<br>
+
+### To Do:
+- Golang deep dive
+
 <!--
 **moody2times/moody2times** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
