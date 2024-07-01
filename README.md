@@ -12,7 +12,8 @@ A React and Nodejs developer with 4 years of experience
 
 - 👨‍💼 A freelancer
 - 👯 Contributing to open source at [thumbnail-maker](https://github.com/Hermit-Tools/Thumbnail-Maker) and [CollAction](https://github.com/CollActionteam/collaction_website)
-- 🔧 Currently collaborating to build Research Buddy
+- ✅ Built Research Buddy PWA [ResearchBuddy App](http://researchbuddy.io/)
+- 🔧 Currently FrontEnd Engineer (Snr) at BroadCaad
 - 🧗 Cracking [JavaScript Algorithms and Data Structures](https://github.com/uwojeyamudiaga/javascript-algorithms-master)
 
 <br>
